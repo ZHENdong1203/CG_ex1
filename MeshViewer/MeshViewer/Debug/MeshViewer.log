@@ -1,0 +1,38 @@
+﻿  MeshViewer.cpp
+f:\chrome download\meshviewer\meshviewer\meshviewer.cpp(26): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+f:\chrome download\meshviewer\meshviewer\meshviewer.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+f:\chrome download\meshviewer\meshviewer\meshviewer.cpp(548): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+  Obj.cpp
+f:\chrome download\meshviewer\meshviewer\obj.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+f:\chrome download\meshviewer\meshviewer\obj.cpp(52): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\chrome download\meshviewer\meshviewer\obj.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+f:\chrome download\meshviewer\meshviewer\obj.cpp(108): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+glui32d.lib(algebra3.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(algebra3.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(arcball.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(arcball.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_add_controls.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_add_controls.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_bitmaps.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_bitmaps.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_bitmap_img_data.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_bitmap_img_data.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_button.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_button.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_checkbox.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_checkbox.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_column.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_column.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_control.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_control.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_edittext.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_edittext.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_listbox.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_listbox.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_mouse_iaction.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_mouse_iaction.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_node.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_node.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_panel.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_panel.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_radio.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_radio.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_rollout.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_rollout.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_rotation.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_rotation.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_separator.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_separator.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_spinner.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_spinner.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_statictext.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_statictext.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_string.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_string.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_translation.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_translation.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(glui_window.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(glui_window.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui32d.lib(quaternion.obj) : warning LNK4099: 未找到 PDB“_glui library.pdb”(使用“glui32d.lib(quaternion.obj)”或在“F:\Chrome Download\MeshViewer\Debug\_glui library.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  MeshViewer.vcxproj -> F:\Chrome Download\MeshViewer\Debug\MeshViewer.exe
